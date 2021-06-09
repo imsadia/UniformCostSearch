@@ -1,4 +1,4 @@
---------------------------- Uniform Cost Search Implementation ---------------------------
+# Uniform Cost Search Implementation
 
 Simply clone the repository to get the code on your system :+1:
 
